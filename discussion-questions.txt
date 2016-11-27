@@ -1,0 +1,12 @@
+Discussion Questions
+
+Recursion
+1) Recursion is when a function calls itself.
+2) A base case is necessary so the recursive calls end once the condition is met.
+
+Graphs
+1) A graph is a datastructure of nodes/vertices, connected by edges. It can
+be either directed or undirected.
+2) A graph's nodes can be connected in cycles, its edges can be weighted,
+and do not have hierarchies. 
+3) The water cycle can be represented by a graph.
